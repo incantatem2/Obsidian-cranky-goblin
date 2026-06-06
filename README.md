@@ -1,3 +1,6 @@
+### Important:
+<blockquote>My themes will now get published on [my theme showcase carrd](https://obsidian-theme-cafe.carrd.co) and can be downloaded directly as zip files.</blockquote>
+
 # cranky goblin
 
 Deep in the dungeon tunnels, a goblin with more patience for tools than for people kept a small notebook. Its pages were smudged with charcoal, its margins full of muttered improvements and half‑finished ideas. This theme is one of those ideas: simple, sturdy, and made to stay out of the way.

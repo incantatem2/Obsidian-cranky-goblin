@@ -1,6 +1,6 @@
 ### Important:
-<blockquote>My themes will now get published on [carrd](https://obsidian-theme-cafe.carrd.co)
- and can be downloaded directly as zip files.</blockquote>
+My themes will now get published on [carrd](https://obsidian-theme-cafe.carrd.co)
+ and can be downloaded directly as zip files.
 
 # cranky goblin
 

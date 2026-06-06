@@ -1,5 +1,5 @@
 ### Important:
-<blockquote>My themes will now get published on https://obsidian-theme-cafe.carrd.co and can be downloaded directly as zip files.</blockquote>
+<blockquote>My themes will now get published on [https://obsidian-theme-cafe.carrd.co] and can be downloaded directly as zip files.</blockquote>
 
 # cranky goblin
 

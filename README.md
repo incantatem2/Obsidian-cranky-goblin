@@ -40,3 +40,11 @@ Dark mode only:
 Glowing headings with a slight gradient.
 ![](IMAGES/screenshot-headings.jpg)
 
+
+## Installation
+
+1. Open Obsidian and go to **Settings > Appearance**.
+2. Next to **Themes**, select **Manage**.
+3. Search for "cranky goblin", then select **Install and use**.
+
+To install by hand, download `manifest.json` and `theme.css` from the [latest release](https://github.com/incantatem2/Obsidian-cranky-goblin/releases/latest). Put both files in a folder named `cranky goblin` inside `.obsidian/themes/` in your vault. Then choose the theme under **Settings > Appearance > Themes**.
